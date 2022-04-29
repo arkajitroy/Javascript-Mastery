@@ -1,4 +1,4 @@
-# Javascript Universe :star:
+# Javascript Mastery :star:
 
 This is a complete javascript resource guide with proper source code. This will mainly focus on the Basic to Advance roadmap.
 
