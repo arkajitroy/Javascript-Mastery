@@ -21,3 +21,8 @@ This is a complete javascript resource guide with proper source code. This will 
     - Taking string variables
     - String escape sequence (\n \f \b..etc)
     - String Objects
+
+4. Conditional Statements
+    - if-else statements
+    - switch-case
+    - **source code:** ```conditional-1.js``` &  ```conditional-2.js```
