@@ -26,3 +26,16 @@ This is a complete javascript resource guide with proper source code. This will 
     - if-else statements
     - switch-case
     - **source code:** ```conditional-1.js``` &  ```conditional-2.js```
+
+5. JS-Functions
+    - Implementing functions
+    - Arrow Functions in JS
+    - Closures (Lexical Scoping)
+    - **source folder:** ```./JS-Functions/```
+
+6. Object Oriented Programming
+    - Class and Object Literarals
+    - Constructors and Prototypes
+    - Inheritence and Polymorphism
+    - ES6 classes and subclasses
+    - **source folder:** ```./JS-OOPs/```
