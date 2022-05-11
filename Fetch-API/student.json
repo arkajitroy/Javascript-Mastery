@@ -1,0 +1,38 @@
+[
+    {
+        "name" : "Rahul",
+        "age" : "20",
+        "marks" : "80",
+        "city" : "delhi"
+    },
+    {
+        "name" : "Rajesh",
+        "age" : "22",
+        "marks" : "90",
+        "city" : "mumbai"
+    },
+    {
+        "name" : "Karan",
+        "age" : "20",
+        "marks" : "78",
+        "city" : "new delhi"
+    },
+    {
+        "name" : "Rohit",
+        "age" : "19",
+        "marks" : "75",
+        "city" : "UP"
+    },
+    {
+        "name" : "Mahi",
+        "age" : "18",
+        "marks" : "82",
+        "city" : "Jharkhand"
+    },
+    {
+        "name" : "Akash",
+        "age" : "20",
+        "marks" : "82",
+        "city" : "Kolkata"
+    }
+]
