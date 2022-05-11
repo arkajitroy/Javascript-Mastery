@@ -39,3 +39,8 @@ This is a complete javascript resource guide with proper source code. This will 
     - Inheritence and Polymorphism
     - ES6 classes and subclasses
     - **source folder:** ```./JS-OOPs/```
+
+7. Fetch-API
+    - using fetch();
+    - fetching data from json (online / locally)
+    - using POST method (using form)
