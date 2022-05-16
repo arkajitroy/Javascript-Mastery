@@ -1,7 +1,6 @@
 # Javascript Mastery :star:
 
 This is a complete javascript resource guide with proper source code. This will mainly focus on the Basic to Advance roadmap.
-#### Created and written by [Arkajit Roy](https://github.com/arkajitroy) :point_left:
 
 ***
 
